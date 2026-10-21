@@ -1,0 +1,113 @@
+// Problem 537: Complex Number Multiplication
+// Difficulty: Medium
+// Language: cpp
+// URL: https://leetcode.com/problems/complex-number-multiplication/
+
+class Solution {
+public:
+    string complexNumberMultiply(string num1, string num2) {
+        int real1=0,imaginary1=0,start=0,real2=0,imaginary2=0;
+        if(!isdigit(num1[start])){
+            start++;
+            while(isdigit(num1[start])){
+                real1*=10;
+                real1+=num1[start]-'0';
+                start++;
+            }
+            real1=-real1;
+            start++;
+            if(!isdigit(num1[start])){
+                start++;
+                while(isdigit(num1[start])){
+                    imaginary1*=10;
+                    imaginary1+=num1[start]-'0';
+                    start++;
+                }
+                imaginary1=-imaginary1;
+            }
+            else{
+                while(isdigit(num1[start])){
+                    imaginary1*=10;
+                    imaginary1+=num1[start]-'0';
+                    start++;
+                }
+            }
+        }
+        else{
+            while(isdigit(num1[start])){
+                real1*=10;
+                real1+=num1[start]-'0';
+                start++;
+            }
+            start++;
+            if(!isdigit(num1[start])){
+                start++;
+                while(isdigit(num1[start])){
+                    imaginary1*=10;
+                    imaginary1+=num1[start]-'0';
+                    start++;
+                }
+                imaginary1=-imaginary1;
+            }
+            else{
+                while(isdigit(num1[start])){
+                    imaginary1*=10;
+                    imaginary1+=num1[start]-'0';
+                    start++;
+                }
+            }
+        }
+        start=0;
+        if(!isdigit(num2[start])){
+            start++;
+            while(isdigit(num2[start])){
+                real2*=10;
+                real2+=num2[start]-'0';
+                start++;
+            }
+            real2=-real2;
+            start++;
+            if(!isdigit(num2[start])){
+                start++;
+                while(isdigit(num2[start])){
+                    imaginary2*=10;
+                    imaginary2+=num2[start]-'0';
+                    start++;
+                }
+                imaginary2=-imaginary2;
+            }
+            else{
+                while(isdigit(num2[start])){
+                    imaginary2*=10;
+                    imaginary2+=num2[start]-'0';
+                    start++;
+                }
+            }
+        }
+        else{
+            while(isdigit(num2[start])){
+                real2*=10;
+                real2+=num2[start]-'0';
+                start++;
+            }
+            start++;
+            if(!isdigit(num2[start])){
+                start++;
+                while(isdigit(num2[start])){
+                    imaginary2*=10;
+                    imaginary2+=num2[start]-'0';
+                    start++;
+                }
+                imaginary2=-imaginary2;
+            }
+            else{
+                while(isdigit(num2[start])){
+                    imaginary2*=10;
+                    imaginary2+=num2[start]-'0';
+                    start++;
+                }
+            }
+        }
+        return to_string(real1*real2-imaginary1*imaginary2)+"+"+to_string(real1*imaginary2+real2*imaginary1)+"i";
+    }
+};

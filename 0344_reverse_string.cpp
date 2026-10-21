@@ -1,0 +1,14 @@
+// Problem 344: Reverse String
+// Difficulty: Easy
+// Language: cpp
+// URL: https://leetcode.com/problems/reverse-string/
+
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+        int size=s.size();
+        for(int i=0;i<size/2;i++){
+            swap(s[i],s[size-i-1]);
+        }
+    }
+};
