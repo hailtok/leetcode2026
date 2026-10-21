@@ -8,9 +8,9 @@
 | 難度 | 數量 |
 |------|------|
 | 🟢 Easy | 153 |
-| 🟡 Medium | 396 |
+| 🟡 Medium | 395 |
 | 🔴 Hard | 87 |
-| **總計** | **636** |
+| **總計** | **635** |
 
 ## 📝 題目列表
 
@@ -485,7 +485,6 @@
 | 1510 | [Stone Game IV](https://leetcode.com/problems/stone-game-iv/) | 🔴 Hard | cpp | [解答](./1510_stone_game_iv.cpp) |
 | 1512 | [Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) | 🟢 Easy | cpp | [解答](./1512_number_of_good_pairs.cpp) |
 | 1513 | [Number of Substrings With Only 1s](https://leetcode.com/problems/number-of-substrings-with-only-1s/) | 🟡 Medium | cpp | [解答](./1513_number_of_substrings_with_only_1s.cpp) |
-| 1519 | [Number of Nodes in the Sub-Tree With the Same Label](https://leetcode.com/problems/number-of-nodes-in-the-sub-tree-with-the-same-label/) | 🟡 Medium | cpp | [解答](./1519_number_of_nodes_in_the_sub_tree_with_the_same_label.cpp) |
 | 1526 | [Minimum Number of Increments on Subarrays to Form a Target Array](https://leetcode.com/problems/minimum-number-of-increments-on-subarrays-to-form-a-target-array/) | 🔴 Hard | cpp | [解答](./1526_minimum_number_of_increments_on_subarrays_to_form_a_target_array.cpp) |
 | 1529 | [Minimum Suffix Flips](https://leetcode.com/problems/minimum-suffix-flips/) | 🟡 Medium | cpp | [解答](./1529_minimum_suffix_flips.cpp) |
 | 1539 | [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/) | 🟢 Easy | cpp | [解答](./1539_kth_missing_positive_number.cpp) |
