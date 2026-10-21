@@ -1,0 +1,16 @@
+// Problem 492: Construct the Rectangle
+// Difficulty: Easy
+// Language: cpp
+// URL: https://leetcode.com/problems/construct-the-rectangle/
+
+class Solution {
+public:
+    vector<int> constructRectangle(int area) {
+        for(int i=sqrt(area);i>0;--i){
+            if(area%i==0){
+                return {area/i,i};
+            }
+        }
+        return {};
+    }
+};
