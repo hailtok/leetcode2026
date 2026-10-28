@@ -1,16 +1,16 @@
 # 🏆 LeetCode Solutions
 
 > **[hamber134](https://leetcode.com/u/hamber134/)** 的 LeetCode 解題紀錄
-> 自動整合並更新於 2026/10/27
+> 自動整合並更新於 2026/10/28
 
 ## 📊 統計
 
 | 難度 | 數量 |
 |------|------|
-| 🟢 Easy | 158 |
-| 🟡 Medium | 400 |
-| 🔴 Hard | 92 |
-| **總計** | **650** |
+| 🟢 Easy | 159 |
+| 🟡 Medium | 403 |
+| 🔴 Hard | 93 |
+| **總計** | **655** |
 
 ## 📝 題目列表
 
@@ -241,6 +241,7 @@
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | 🟢 Easy | cpp | [解答](./0349_intersection_of_two_arrays.cpp) |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | 🟢 Easy | cpp | [解答](./0350_intersection_of_two_arrays_ii.cpp) |
 | 357 | [Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) | 🟡 Medium | cpp | [解答](./0357_count_numbers_with_unique_digits.cpp) |
+| 365 | [Water and Jug Problem](https://leetcode.com/problems/water-and-jug-problem/) | 🟡 Medium | cpp | [解答](./0365_water_and_jug_problem.cpp) |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | 🟢 Easy | cpp | [解答](./0367_valid_perfect_square.cpp) |
 | 368 | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | 🟡 Medium | cpp | [解答](./0368_largest_divisible_subset.cpp) |
 | 371 | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | 🟡 Medium | cpp | [解答](./0371_sum_of_two_integers.cpp) |
@@ -306,6 +307,7 @@
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | 🟡 Medium | cpp | [解答](./0494_target_sum.cpp) |
 | 498 | [Diagonal Traverse](https://leetcode.com/problems/diagonal-traverse/) | 🟡 Medium | cpp | [解答](./0498_diagonal_traverse.cpp) |
 | 502 | [IPO](https://leetcode.com/problems/ipo/) | 🔴 Hard | cpp | [解答](./0502_ipo.cpp) |
+| 504 | [Base 7](https://leetcode.com/problems/base-7/) | 🟢 Easy | cpp | [解答](./0504_base_7.cpp) |
 | 506 | [Relative Ranks](https://leetcode.com/problems/relative-ranks/) | 🟢 Easy | cpp | [解答](./0506_relative_ranks.cpp) |
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | 🟢 Easy | cpp | [解答](./0507_perfect_number.cpp) |
 | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | 🟡 Medium | cpp | [解答](./0508_most_frequent_subtree_sum.cpp) |
@@ -438,6 +440,7 @@
 | 1073 | [Adding Two Negabinary Numbers](https://leetcode.com/problems/adding-two-negabinary-numbers/) | 🟡 Medium | cpp | [解答](./1073_adding_two_negabinary_numbers.cpp) |
 | 1080 | [Insufficient Nodes in Root to Leaf Paths](https://leetcode.com/problems/insufficient-nodes-in-root-to-leaf-paths/) | 🟡 Medium | cpp | [解答](./1080_insufficient_nodes_in_root_to_leaf_paths.cpp) |
 | 1104 | [Path In Zigzag Labelled Binary Tree](https://leetcode.com/problems/path-in-zigzag-labelled-binary-tree/) | 🟡 Medium | cpp | [解答](./1104_path_in_zigzag_labelled_binary_tree.cpp) |
+| 1110 | [Delete Nodes And Return Forest](https://leetcode.com/problems/delete-nodes-and-return-forest/) | 🟡 Medium | cpp | [解答](./1110_delete_nodes_and_return_forest.cpp) |
 | 1123 | [Lowest Common Ancestor of Deepest Leaves](https://leetcode.com/problems/lowest-common-ancestor-of-deepest-leaves/) | 🟡 Medium | cpp | [解答](./1123_lowest_common_ancestor_of_deepest_leaves.cpp) |
 | 1130 | [Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) | 🟡 Medium | cpp | [解答](./1130_minimum_cost_tree_from_leaf_values.cpp) |
 | 1140 | [Stone Game II](https://leetcode.com/problems/stone-game-ii/) | 🟡 Medium | cpp | [解答](./1140_stone_game_ii.cpp) |
@@ -474,6 +477,7 @@
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | 🔴 Hard | cpp | [解答](./1345_jump_game_iv.cpp) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | 🟡 Medium | cpp | [解答](./1347_minimum_number_of_steps_to_make_two_strings_anagram.cpp) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | 🔴 Hard | cpp | [解答](./1359_count_all_valid_pickup_and_delivery_options.cpp) |
+| 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | 🟡 Medium | cpp | [解答](./1361_validate_binary_tree_nodes.cpp) |
 | 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/) | 🔴 Hard | cpp | [解答](./1363_largest_multiple_of_three.cpp) |
 | 1367 | [Linked List in Binary Tree](https://leetcode.com/problems/linked-list-in-binary-tree/) | 🟡 Medium | cpp | [解答](./1367_linked_list_in_binary_tree.cpp) |
 | 1372 | [Longest ZigZag Path in a Binary Tree](https://leetcode.com/problems/longest-zigzag-path-in-a-binary-tree/) | 🟡 Medium | cpp | [解答](./1372_longest_zigzag_path_in_a_binary_tree.cpp) |
@@ -572,6 +576,7 @@
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | 🔴 Hard | cpp | [解答](./2302_count_subarrays_with_score_less_than_k.cpp) |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | 🟢 Easy | cpp | [解答](./2331_evaluate_boolean_binary_tree.cpp) |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | 🟡 Medium | cpp | [解答](./2342_max_sum_of_a_pair_with_equal_sum_of_digits.cpp) |
+| 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | 🔴 Hard | cpp | [解答](./2344_minimum_deletions_to_make_array_divisible.cpp) |
 | 2351 | [First Letter to Appear Twice](https://leetcode.com/problems/first-letter-to-appear-twice/) | 🟢 Easy | cpp | [解答](./2351_first_letter_to_appear_twice.cpp) |
 | 2352 | [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/) | 🟡 Medium | cpp | [解答](./2352_equal_row_and_column_pairs.cpp) |
 | 2379 | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | 🟢 Easy | cpp | [解答](./2379_minimum_recolors_to_get_k_consecutive_black_blocks.cpp) |
