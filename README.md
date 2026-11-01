@@ -1,25 +1,25 @@
 # 🏆 LeetCode Solutions
 
 > **[hamber134](https://leetcode.com/u/hamber134/)** 的 LeetCode 解題紀錄
-> 自動整合並更新於 2026/10/28
+> 自動整合並更新於 2026/11/2
 
 ## 📊 統計
 
 | 難度 | 數量 |
 |------|------|
-| 🟢 Easy | 159 |
-| 🟡 Medium | 403 |
+| 🟢 Easy | 165 |
+| 🟡 Medium | 407 |
 | 🔴 Hard | 93 |
-| **總計** | **655** |
+| **總計** | **665** |
 
 ## 📁 資料夾分類
 
 | 題號區間 | 收錄數量 | 連結 |
 |:--------:|:--------:|:----:|
-| **0001-1000** | 409 題 | [進入目錄](./0001-1000/) |
-| **1001-2000** | 120 題 | [進入目錄](./1001-2000/) |
-| **2001-3000** | 80 題 | [進入目錄](./2001-3000/) |
-| **3001-4000** | 46 題 | [進入目錄](./3001-4000/) |
+| **0001-1000** | 413 題 | [進入目錄](./0001-1000/) |
+| **1001-2000** | 123 題 | [進入目錄](./1001-2000/) |
+| **2001-3000** | 81 題 | [進入目錄](./2001-3000/) |
+| **3001-4000** | 48 題 | [進入目錄](./3001-4000/) |
 
 ## 📝 題目列表
 
@@ -141,6 +141,7 @@
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0125_valid_palindrome.cpp) |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0128_longest_consecutive_sequence.cpp) |
 | 129 | [Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0129_sum_root_to_leaf_numbers.cpp) |
+| 130 | [Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0130_surrounded_regions.cpp) |
 | 131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0131_palindrome_partitioning.cpp) |
 | 132 | [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0132_palindrome_partitioning_ii.cpp) |
 | 134 | [Gas Station](https://leetcode.com/problems/gas-station/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0134_gas_station.cpp) |
@@ -288,6 +289,7 @@
 | 435 | [Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0435_non_overlapping_intervals.cpp) |
 | 436 | [Find Right Interval](https://leetcode.com/problems/find-right-interval/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0436_find_right_interval.cpp) |
 | 437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0437_path_sum_iii.cpp) |
+| 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0438_find_all_anagrams_in_a_string.cpp) |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0441_arranging_coins.cpp) |
 | 442 | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0442_find_all_duplicates_in_an_array.cpp) |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0443_string_compression.cpp) |
@@ -342,9 +344,11 @@
 | 557 | [Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0557_reverse_words_in_a_string_iii.cpp) |
 | 559 | [Maximum Depth of N-ary Tree](https://leetcode.com/problems/maximum-depth-of-n-ary-tree/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0559_maximum_depth_of_n_ary_tree.cpp) |
 | 561 | [Array Partition](https://leetcode.com/problems/array-partition/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0561_array_partition.cpp) |
+| 572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0572_subtree_of_another_tree.cpp) |
 | 589 | [N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0589_n_ary_tree_preorder_traversal.cpp) |
 | 590 | [N-ary Tree Postorder Traversal](https://leetcode.com/problems/n-ary-tree-postorder-traversal/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0590_n_ary_tree_postorder_traversal.cpp) |
 | 593 | [Valid Square](https://leetcode.com/problems/valid-square/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0593_valid_square.cpp) |
+| 594 | [Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0594_longest_harmonious_subsequence.cpp) |
 | 598 | [Range Addition II](https://leetcode.com/problems/range-addition-ii/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0598_range_addition_ii.cpp) |
 | 600 | [Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0600_non_negative_integers_without_consecutive_ones.cpp) |
 | 606 | [Construct String from Binary Tree](https://leetcode.com/problems/construct-string-from-binary-tree/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0606_construct_string_from_binary_tree.cpp) |
@@ -457,6 +461,7 @@
 | 1155 | [Number of Dice Rolls With Target Sum](https://leetcode.com/problems/number-of-dice-rolls-with-target-sum/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1155_number_of_dice_rolls_with_target_sum.cpp) |
 | 1161 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1161_maximum_level_sum_of_a_binary_tree.cpp) |
 | 1172 | [Dinner Plate Stacks](https://leetcode.com/problems/dinner-plate-stacks/) | 🔴 Hard | [1001-2000](./1001-2000/) | [解答](./1001-2000/1172_dinner_plate_stacks.cpp) |
+| 1189 | [Maximum Number of Balloons](https://leetcode.com/problems/maximum-number-of-balloons/) | 🟢 Easy | [1001-2000](./1001-2000/) | [解答](./1001-2000/1189_maximum_number_of_balloons.cpp) |
 | 1201 | [Ugly Number III](https://leetcode.com/problems/ugly-number-iii/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1201_ugly_number_iii.cpp) |
 | 1208 | [Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1208_get_equal_substrings_within_budget.cpp) |
 | 1219 | [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1219_path_with_maximum_gold.cpp) |
@@ -479,12 +484,14 @@
 | 1312 | [Minimum Insertion Steps to Make a String Palindrome](https://leetcode.com/problems/minimum-insertion-steps-to-make-a-string-palindrome/) | 🔴 Hard | [1001-2000](./1001-2000/) | [解答](./1001-2000/1312_minimum_insertion_steps_to_make_a_string_palindrome.cpp) |
 | 1314 | [Matrix Block Sum](https://leetcode.com/problems/matrix-block-sum/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1314_matrix_block_sum.cpp) |
 | 1315 | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1315_sum_of_nodes_with_even_valued_grandparent.cpp) |
+| 1323 | [Maximum 69 Number](https://leetcode.com/problems/maximum-69-number/) | 🟢 Easy | [1001-2000](./1001-2000/) | [解答](./1001-2000/1323_maximum_69_number.cpp) |
 | 1325 | [Delete Leaves With a Given Value](https://leetcode.com/problems/delete-leaves-with-a-given-value/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1325_delete_leaves_with_a_given_value.cpp) |
 | 1338 | [Reduce Array Size to The Half](https://leetcode.com/problems/reduce-array-size-to-the-half/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1338_reduce_array_size_to_the_half.cpp) |
 | 1339 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1339_maximum_product_of_splitted_binary_tree.cpp) |
 | 1340 | [Jump Game V](https://leetcode.com/problems/jump-game-v/) | 🔴 Hard | [1001-2000](./1001-2000/) | [解答](./1001-2000/1340_jump_game_v.cpp) |
 | 1345 | [Jump Game IV](https://leetcode.com/problems/jump-game-iv/) | 🔴 Hard | [1001-2000](./1001-2000/) | [解答](./1001-2000/1345_jump_game_iv.cpp) |
 | 1347 | [Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1347_minimum_number_of_steps_to_make_two_strings_anagram.cpp) |
+| 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1358_number_of_substrings_containing_all_three_characters.cpp) |
 | 1359 | [Count All Valid Pickup and Delivery Options](https://leetcode.com/problems/count-all-valid-pickup-and-delivery-options/) | 🔴 Hard | [1001-2000](./1001-2000/) | [解答](./1001-2000/1359_count_all_valid_pickup_and_delivery_options.cpp) |
 | 1361 | [Validate Binary Tree Nodes](https://leetcode.com/problems/validate-binary-tree-nodes/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1361_validate_binary_tree_nodes.cpp) |
 | 1363 | [Largest Multiple of Three](https://leetcode.com/problems/largest-multiple-of-three/) | 🔴 Hard | [1001-2000](./1001-2000/) | [解答](./1001-2000/1363_largest_multiple_of_three.cpp) |
@@ -610,6 +617,7 @@
 | 2523 | [Closest Prime Numbers in Range](https://leetcode.com/problems/closest-prime-numbers-in-range/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2523_closest_prime_numbers_in_range.cpp) |
 | 2525 | [Categorize Box According to Criteria](https://leetcode.com/problems/categorize-box-according-to-criteria/) | 🟢 Easy | [2001-3000](./2001-3000/) | [解答](./2001-3000/2525_categorize_box_according_to_criteria.cpp) |
 | 2529 | [Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/) | 🟢 Easy | [2001-3000](./2001-3000/) | [解答](./2001-3000/2529_maximum_count_of_positive_integer_and_negative_integer.cpp) |
+| 2535 | [Difference Between Element Sum and Digit Sum of an Array](https://leetcode.com/problems/difference-between-element-sum-and-digit-sum-of-an-array/) | 🟢 Easy | [2001-3000](./2001-3000/) | [解答](./2001-3000/2535_difference_between_element_sum_and_digit_sum_of_an_array.cpp) |
 | 2553 | [Separate the Digits in an Array](https://leetcode.com/problems/separate-the-digits-in-an-array/) | 🟢 Easy | [2001-3000](./2001-3000/) | [解答](./2001-3000/2553_separate_the_digits_in_an_array.cpp) |
 | 2558 | [Take Gifts From the Richest Pile](https://leetcode.com/problems/take-gifts-from-the-richest-pile/) | 🟢 Easy | [2001-3000](./2001-3000/) | [解答](./2001-3000/2558_take_gifts_from_the_richest_pile.cpp) |
 | 2560 | [House Robber IV](https://leetcode.com/problems/house-robber-iv/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2560_house_robber_iv.cpp) |
@@ -674,9 +682,11 @@
 | 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3718_smallest_missing_multiple_of_k.cpp) |
 | 3719 | [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3719_longest_balanced_subarray_i.cpp) |
 | 3727 | [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3727_maximum_alternating_sum_of_squares.cpp) |
+| 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3783_mirror_distance_of_an_integer.cpp) |
 | 3827 | [Count Monobit Integers](https://leetcode.com/problems/count-monobit-integers/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3827_count_monobit_integers.cpp) |
 | 3840 | [House Robber V](https://leetcode.com/problems/house-robber-v/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3840_house_robber_v.cpp) |
 | 3847 | [Find the Score Difference in a Game](https://leetcode.com/problems/find-the-score-difference-in-a-game/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3847_find_the_score_difference_in_a_game.cpp) |
 | 3870 | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3870_count_commas_in_range.cpp) |
 | 3871 | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3871_count_commas_in_range_ii.cpp) |
+| 3889 | [Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3889_mirror_frequency_distance.cpp) |
 | 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3963_create_grid_with_exactly_one_path.cpp) |
