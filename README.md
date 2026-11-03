@@ -1,25 +1,25 @@
 # 🏆 LeetCode Solutions
 
 > **[hamber134](https://leetcode.com/u/hamber134/)** 的 LeetCode 解題紀錄
-> 自動整合並更新於 2026/11/2
+> 自動整合並更新於 2026/11/4
 
 ## 📊 統計
 
 | 難度 | 數量 |
 |------|------|
-| 🟢 Easy | 165 |
-| 🟡 Medium | 407 |
-| 🔴 Hard | 93 |
-| **總計** | **665** |
+| 🟢 Easy | 167 |
+| 🟡 Medium | 412 |
+| 🔴 Hard | 98 |
+| **總計** | **677** |
 
 ## 📁 資料夾分類
 
 | 題號區間 | 收錄數量 | 連結 |
 |:--------:|:--------:|:----:|
-| **0001-1000** | 413 題 | [進入目錄](./0001-1000/) |
-| **1001-2000** | 123 題 | [進入目錄](./1001-2000/) |
-| **2001-3000** | 81 題 | [進入目錄](./2001-3000/) |
-| **3001-4000** | 48 題 | [進入目錄](./3001-4000/) |
+| **0001-1000** | 419 題 | [進入目錄](./0001-1000/) |
+| **1001-2000** | 125 題 | [進入目錄](./1001-2000/) |
+| **2001-3000** | 84 題 | [進入目錄](./2001-3000/) |
+| **3001-4000** | 49 題 | [進入目錄](./3001-4000/) |
 
 ## 📝 題目列表
 
@@ -102,6 +102,7 @@
 | 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0082_remove_duplicates_from_sorted_list_ii.cpp) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0083_remove_duplicates_from_sorted_list.cpp) |
 | 84 | [Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0084_largest_rectangle_in_histogram.cpp) |
+| 85 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0085_maximal_rectangle.cpp) |
 | 86 | [Partition List](https://leetcode.com/problems/partition-list/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0086_partition_list.cpp) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0088_merge_sorted_array.cpp) |
 | 89 | [Gray Code](https://leetcode.com/problems/gray-code/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0089_gray_code.cpp) |
@@ -168,6 +169,7 @@
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0169_majority_element.cpp) |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0171_excel_sheet_column_number.cpp) |
 | 172 | [Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0172_factorial_trailing_zeroes.cpp) |
+| 174 | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0174_dungeon_game.cpp) |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0179_largest_number.cpp) |
 | 187 | [Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0187_repeated_dna_sequences.cpp) |
 | 188 | [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0188_best_time_to_buy_and_sell_stock_iv.cpp) |
@@ -220,6 +222,7 @@
 | 273 | [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0273_integer_to_english_words.cpp) |
 | 274 | [H-Index](https://leetcode.com/problems/h-index/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0274_h_index.cpp) |
 | 275 | [H-Index II](https://leetcode.com/problems/h-index-ii/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0275_h_index_ii.cpp) |
+| 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0278_first_bad_version.cpp) |
 | 279 | [Perfect Squares](https://leetcode.com/problems/perfect-squares/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0279_perfect_squares.cpp) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0283_move_zeroes.cpp) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0287_find_the_duplicate_number.cpp) |
@@ -306,6 +309,7 @@
 | 459 | [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0459_repeated_substring_pattern.cpp) |
 | 461 | [Hamming Distance](https://leetcode.com/problems/hamming-distance/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0461_hamming_distance.cpp) |
 | 462 | [Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0462_minimum_moves_to_equal_array_elements_ii.cpp) |
+| 464 | [Can I Win](https://leetcode.com/problems/can-i-win/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0464_can_i_win.cpp) |
 | 474 | [Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0474_ones_and_zeroes.cpp) |
 | 475 | [Heaters](https://leetcode.com/problems/heaters/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0475_heaters.cpp) |
 | 476 | [Number Complement](https://leetcode.com/problems/number-complement/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0476_number_complement.cpp) |
@@ -323,6 +327,7 @@
 | 507 | [Perfect Number](https://leetcode.com/problems/perfect-number/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0507_perfect_number.cpp) |
 | 508 | [Most Frequent Subtree Sum](https://leetcode.com/problems/most-frequent-subtree-sum/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0508_most_frequent_subtree_sum.cpp) |
 | 513 | [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0513_find_bottom_left_tree_value.cpp) |
+| 514 | [Freedom Trail](https://leetcode.com/problems/freedom-trail/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0514_freedom_trail.cpp) |
 | 515 | [Find Largest Value in Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0515_find_largest_value_in_each_tree_row.cpp) |
 | 516 | [Longest Palindromic Subsequence](https://leetcode.com/problems/longest-palindromic-subsequence/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0516_longest_palindromic_subsequence.cpp) |
 | 518 | [Coin Change II](https://leetcode.com/problems/coin-change-ii/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0518_coin_change_ii.cpp) |
@@ -403,6 +408,7 @@
 | 834 | [Sum of Distances in Tree](https://leetcode.com/problems/sum-of-distances-in-tree/) | 🔴 Hard | [0001-1000](./0001-1000/) | [解答](./0001-1000/0834_sum_of_distances_in_tree.cpp) |
 | 836 | [Rectangle Overlap](https://leetcode.com/problems/rectangle-overlap/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0836_rectangle_overlap.cpp) |
 | 846 | [Hand of Straights](https://leetcode.com/problems/hand-of-straights/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0846_hand_of_straights.cpp) |
+| 852 | [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0852_peak_index_in_a_mountain_array.cpp) |
 | 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0856_score_of_parentheses.cpp) |
 | 863 | [All Nodes Distance K in Binary Tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0863_all_nodes_distance_k_in_binary_tree.cpp) |
 | 865 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0865_smallest_subtree_with_all_the_deepest_nodes.cpp) |
@@ -438,6 +444,7 @@
 | 991 | [Broken Calculator](https://leetcode.com/problems/broken-calculator/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0991_broken_calculator.cpp) |
 | 993 | [Cousins in Binary Tree](https://leetcode.com/problems/cousins-in-binary-tree/) | 🟢 Easy | [0001-1000](./0001-1000/) | [解答](./0001-1000/0993_cousins_in_binary_tree.cpp) |
 | 998 | [Maximum Binary Tree II](https://leetcode.com/problems/maximum-binary-tree-ii/) | 🟡 Medium | [0001-1000](./0001-1000/) | [解答](./0001-1000/0998_maximum_binary_tree_ii.cpp) |
+| 1007 | [Minimum Domino Rotations For Equal Row](https://leetcode.com/problems/minimum-domino-rotations-for-equal-row/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1007_minimum_domino_rotations_for_equal_row.cpp) |
 | 1009 | [Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) | 🟢 Easy | [1001-2000](./1001-2000/) | [解答](./1001-2000/1009_complement_of_base_10_integer.cpp) |
 | 1017 | [Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1017_convert_to_base_2.cpp) |
 | 1020 | [Number of Enclaves](https://leetcode.com/problems/number-of-enclaves/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1020_number_of_enclaves.cpp) |
@@ -557,6 +564,7 @@
 | 1887 | [Reduction Operations to Make the Array Elements Equal](https://leetcode.com/problems/reduction-operations-to-make-the-array-elements-equal/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1887_reduction_operations_to_make_the_array_elements_equal.cpp) |
 | 1903 | [Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/) | 🟢 Easy | [1001-2000](./1001-2000/) | [解答](./1001-2000/1903_largest_odd_number_in_string.cpp) |
 | 1922 | [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1922_count_good_numbers.cpp) |
+| 1926 | [Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1926_nearest_exit_from_entrance_in_maze.cpp) |
 | 1927 | [Sum Game](https://leetcode.com/problems/sum-game/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1927_sum_game.cpp) |
 | 1968 | [Array With Elements Not Equal to Average of Neighbors](https://leetcode.com/problems/array-with-elements-not-equal-to-average-of-neighbors/) | 🟡 Medium | [1001-2000](./1001-2000/) | [解答](./1001-2000/1968_array_with_elements_not_equal_to_average_of_neighbors.cpp) |
 | 1991 | [Find the Middle Index in Array](https://leetcode.com/problems/find-the-middle-index-in-array/) | 🟢 Easy | [1001-2000](./1001-2000/) | [解答](./1001-2000/1991_find_the_middle_index_in_array.cpp) |
@@ -570,6 +578,7 @@
 | 2125 | [Number of Laser Beams in a Bank](https://leetcode.com/problems/number-of-laser-beams-in-a-bank/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2125_number_of_laser_beams_in_a_bank.cpp) |
 | 2126 | [Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2126_destroying_asteroids.cpp) |
 | 2130 | [Maximum Twin Sum of a Linked List](https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2130_maximum_twin_sum_of_a_linked_list.cpp) |
+| 2131 | [Longest Palindrome by Concatenating Two Letter Words](https://leetcode.com/problems/longest-palindrome-by-concatenating-two-letter-words/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2131_longest_palindrome_by_concatenating_two_letter_words.cpp) |
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | 🟢 Easy | [2001-3000](./2001-3000/) | [解答](./2001-3000/2144_minimum_cost_of_buying_candies_with_discount.cpp) |
 | 2149 | [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2149_rearrange_array_elements_by_sign.cpp) |
 | 2150 | [Find All Lonely Numbers in the Array](https://leetcode.com/problems/find-all-lonely-numbers-in-the-array/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2150_find_all_lonely_numbers_in_the_array.cpp) |
@@ -590,6 +599,7 @@
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2294_partition_array_such_that_maximum_difference_is_k.cpp) |
 | 2295 | [Replace Elements in an Array](https://leetcode.com/problems/replace-elements-in-an-array/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2295_replace_elements_in_an_array.cpp) |
 | 2302 | [Count Subarrays With Score Less Than K](https://leetcode.com/problems/count-subarrays-with-score-less-than-k/) | 🔴 Hard | [2001-3000](./2001-3000/) | [解答](./2001-3000/2302_count_subarrays_with_score_less_than_k.cpp) |
+| 2328 | [Number of Increasing Paths in a Grid](https://leetcode.com/problems/number-of-increasing-paths-in-a-grid/) | 🔴 Hard | [2001-3000](./2001-3000/) | [解答](./2001-3000/2328_number_of_increasing_paths_in_a_grid.cpp) |
 | 2331 | [Evaluate Boolean Binary Tree](https://leetcode.com/problems/evaluate-boolean-binary-tree/) | 🟢 Easy | [2001-3000](./2001-3000/) | [解答](./2001-3000/2331_evaluate_boolean_binary_tree.cpp) |
 | 2342 | [Max Sum of a Pair With Equal Sum of Digits](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2342_max_sum_of_a_pair_with_equal_sum_of_digits.cpp) |
 | 2344 | [Minimum Deletions to Make Array Divisible](https://leetcode.com/problems/minimum-deletions-to-make-array-divisible/) | 🔴 Hard | [2001-3000](./2001-3000/) | [解答](./2001-3000/2344_minimum_deletions_to_make_array_divisible.cpp) |
@@ -631,6 +641,7 @@
 | 2657 | [Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2657_find_the_prefix_common_array_of_two_arrays.cpp) |
 | 2673 | [Make Costs of Paths Equal in a Binary Tree](https://leetcode.com/problems/make-costs-of-paths-equal-in-a-binary-tree/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2673_make_costs_of_paths_equal_in_a_binary_tree.cpp) |
 | 2679 | [Sum in a Matrix](https://leetcode.com/problems/sum-in-a-matrix/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2679_sum_in_a_matrix.cpp) |
+| 2713 | [Maximum Strictly Increasing Cells in a Matrix](https://leetcode.com/problems/maximum-strictly-increasing-cells-in-a-matrix/) | 🔴 Hard | [2001-3000](./2001-3000/) | [解答](./2001-3000/2713_maximum_strictly_increasing_cells_in_a_matrix.cpp) |
 | 2740 | [Find the Value of the Partition](https://leetcode.com/problems/find-the-value-of-the-partition/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2740_find_the_value_of_the_partition.cpp) |
 | 2766 | [Relocate Marbles](https://leetcode.com/problems/relocate-marbles/) | 🟡 Medium | [2001-3000](./2001-3000/) | [解答](./2001-3000/2766_relocate_marbles.cpp) |
 | 2828 | [Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/) | 🟢 Easy | [2001-3000](./2001-3000/) | [解答](./2001-3000/2828_check_if_a_string_is_an_acronym_of_words.cpp) |
@@ -662,6 +673,7 @@
 | 3319 | [K-th Largest Perfect Subtree Size in Binary Tree](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3319_k_th_largest_perfect_subtree_size_in_binary_tree.cpp) |
 | 3335 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3335_total_characters_in_string_after_transformations_i.cpp) |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3340_check_balanced_string.cpp) |
+| 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3360_stone_removal_game.cpp) |
 | 3386 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3386_button_with_longest_push_time.cpp) |
 | 3402 | [Minimum Operations to Make Columns Strictly Increasing](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/) | 🟢 Easy | [3001-4000](./3001-4000/) | [解答](./3001-4000/3402_minimum_operations_to_make_columns_strictly_increasing.cpp) |
 | 3412 | [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/) | 🟡 Medium | [3001-4000](./3001-4000/) | [解答](./3001-4000/3412_find_mirror_score_of_a_string.cpp) |
