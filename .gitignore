@@ -2,3 +2,5 @@ node_modules/
 *.cjs
 *.js
 *.log
+.agents/
+scripts/
